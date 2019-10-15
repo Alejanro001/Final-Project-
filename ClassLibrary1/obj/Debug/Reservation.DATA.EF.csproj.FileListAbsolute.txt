@@ -1,0 +1,12 @@
+C:\Users\Student\source\repos\Reservation.UI.MVC\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Student\source\repos\Reservation.UI.MVC\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Student\source\repos\Reservation.UI.MVC\ClassLibrary1\obj\Debug\Reservation.DATA.EF.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\Reservation.UI.MVC\ClassLibrary1\obj\Debug\Reservation.DATA.EF.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Reservation.UI.MVC\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Student\source\repos\Reservation.UI.MVC\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Student\source\repos\Reservation.UI.MVC\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+C:\Users\Student\source\repos\Reservation.UI.MVC\ClassLibrary1\bin\Debug\EntityFramework.dll
+C:\Users\Student\source\repos\Reservation.UI.MVC\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Student\source\repos\Reservation.UI.MVC\ClassLibrary1\bin\Debug\EntityFramework.xml
+C:\Users\Student\source\repos\Reservation.UI.MVC\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Student\source\repos\Reservation.UI.MVC\ClassLibrary1\obj\Debug\Reservation.DATA.EF.csproj.CopyComplete
