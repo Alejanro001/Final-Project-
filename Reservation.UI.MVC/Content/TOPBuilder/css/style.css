@@ -104,7 +104,9 @@ This files contents are outlined below.
   color: #555555;
   padding-top: 55px;
 }
-
+#headerImage {
+    background-image: url('../images/slider-1.jpg');
+}
 /* Subtittle */
 .subtittle h2 {
   font: 700 36px "Roboto", sans-serif;
