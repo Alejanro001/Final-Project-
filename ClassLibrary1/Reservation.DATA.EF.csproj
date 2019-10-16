@@ -56,7 +56,7 @@
     <Compile Include="Location.cs">
       <DependentUpon>ReservationModel.tt</DependentUpon>
     </Compile>
-    <Compile Include="Metadata\Class1.cs" />
+    <Compile Include="Metadata\ReservationMetadata.cs" />
     <Compile Include="OwnerAsset.cs">
       <DependentUpon>ReservationModel.tt</DependentUpon>
     </Compile>
