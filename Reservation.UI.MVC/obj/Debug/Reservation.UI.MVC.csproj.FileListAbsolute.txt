@@ -48,7 +48,6 @@ C:\Users\Student\source\repos\Reservation.UI.MVC\Reservation.UI.MVC\bin\roslyn\v
 C:\Users\Student\source\repos\Reservation.UI.MVC\Reservation.UI.MVC\bin\roslyn\VBCSCompiler.exe
 C:\Users\Student\source\repos\Reservation.UI.MVC\Reservation.UI.MVC\bin\roslyn\VBCSCompiler.exe.config
 C:\Users\Student\source\repos\Reservation.UI.MVC\Reservation.UI.MVC\bin\Antlr3.Runtime.dll
-C:\Users\Student\source\repos\Reservation.UI.MVC\Reservation.UI.MVC\bin\ClassLibrary1.dll
 C:\Users\Student\source\repos\Reservation.UI.MVC\Reservation.UI.MVC\bin\EntityFramework.dll
 C:\Users\Student\source\repos\Reservation.UI.MVC\Reservation.UI.MVC\bin\EntityFramework.SqlServer.dll
 C:\Users\Student\source\repos\Reservation.UI.MVC\Reservation.UI.MVC\bin\Microsoft.AspNet.Identity.Core.dll
@@ -75,7 +74,6 @@ C:\Users\Student\source\repos\Reservation.UI.MVC\Reservation.UI.MVC\bin\System.W
 C:\Users\Student\source\repos\Reservation.UI.MVC\Reservation.UI.MVC\bin\System.Web.WebPages.dll
 C:\Users\Student\source\repos\Reservation.UI.MVC\Reservation.UI.MVC\bin\System.Web.WebPages.Razor.dll
 C:\Users\Student\source\repos\Reservation.UI.MVC\Reservation.UI.MVC\bin\WebGrease.dll
-C:\Users\Student\source\repos\Reservation.UI.MVC\Reservation.UI.MVC\bin\ClassLibrary1.pdb
 C:\Users\Student\source\repos\Reservation.UI.MVC\Reservation.UI.MVC\bin\EntityFramework.xml
 C:\Users\Student\source\repos\Reservation.UI.MVC\Reservation.UI.MVC\bin\EntityFramework.SqlServer.xml
 C:\Users\Student\source\repos\Reservation.UI.MVC\Reservation.UI.MVC\bin\System.Web.Helpers.xml
@@ -105,4 +103,6 @@ C:\Users\Student\source\repos\Reservation.UI.MVC\Reservation.UI.MVC\obj\Debug\Re
 C:\Users\Student\source\repos\Reservation.UI.MVC\Reservation.UI.MVC\obj\Debug\Reservation.UI.MVC.csproj.CopyComplete
 C:\Users\Student\source\repos\Reservation.UI.MVC\Reservation.UI.MVC\obj\Debug\Reservation.UI.MVC.dll
 C:\Users\Student\source\repos\Reservation.UI.MVC\Reservation.UI.MVC\obj\Debug\Reservation.UI.MVC.pdb
-C:\Users\Student\source\repos\Reservation.UI.MVC\Reservation.UI.MVC\bin\ClassLibrary1.dll.config
+C:\Users\Student\source\repos\Reservation.UI.MVC\Reservation.UI.MVC\bin\Reservation.DATA.EF.dll
+C:\Users\Student\source\repos\Reservation.UI.MVC\Reservation.UI.MVC\bin\Reservation.DATA.EF.pdb
+C:\Users\Student\source\repos\Reservation.UI.MVC\Reservation.UI.MVC\bin\Reservation.DATA.EF.dll.config

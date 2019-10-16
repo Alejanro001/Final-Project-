@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ClassLibrary1
+namespace Reservation.DATA.EF
 {
     using System;
     using System.Collections.Generic;

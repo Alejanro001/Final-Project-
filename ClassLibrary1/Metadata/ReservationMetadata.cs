@@ -25,7 +25,7 @@ namespace Reservation.DATA.EF//.Metadata
     //}
     public class LocationMetadata
     {
-        public int LocationID { get; set; }
+        //public int LocationID { get; set; }
         [Required(ErrorMessage = "While house calls are on the table for possible future endevors, we do not currently really do that. Please select a location.")]
         public string LocationName { get; set; }
         [Display(Name = "Address")]
@@ -47,7 +47,7 @@ namespace Reservation.DATA.EF//.Metadata
     public partial class Location { };
     public class OwnerAssetMetadata
     {   //TODO - Finish adding metadata
-        public int OwnerAssetID { get; set; }
+        //public int OwnerAssetID { get; set; }
         public string AssetName { get; set; }
         public string OwnerID { get; set; }
         public string AssetPhoto { get; set; }
@@ -59,7 +59,7 @@ namespace Reservation.DATA.EF//.Metadata
     public partial class OwnerAsset { };
     public class ReservationMetadata
     {
-        public int ReservationID { get; set; }
+        //public int ReservationID { get; set; }
         public int LocationID { get; set; }
         public System.DateTime ReservationDate { get; set; }
         public int OwnerAssetID { get; set; }
@@ -69,7 +69,7 @@ namespace Reservation.DATA.EF//.Metadata
     public partial class Reservation { };
     public class UserDetailMetadata
     {
-        public string UserID { get; set; }
+        //public string UserID { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }
     }

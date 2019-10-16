@@ -7,8 +7,8 @@
     <ProjectGuid>{E42CA274-E9EE-4266-A79E-46159DAC7C0F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ClassLibrary1</RootNamespace>
-    <AssemblyName>ClassLibrary1</AssemblyName>
+    <RootNamespace>Reservation.DATA.EF</RootNamespace>
+    <AssemblyName>Reservation.DATA.EF</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
